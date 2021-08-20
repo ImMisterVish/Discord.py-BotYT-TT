@@ -12,3 +12,6 @@ async def ping(ctx):
     await ctx.send("Pong!")
 
 client.run('your_bot_token') #set your token
+
+
+#MR_ViSH
